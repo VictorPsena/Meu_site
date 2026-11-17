@@ -1,5 +1,7 @@
 # Disciplinas e projetos
 
+Site feito para colocar algumas coisas que estou fazendo.
+
 Abra `index.html` no navegador para visualizar o site. Não é necessário instalar dependências.
 
 ## Adicionar conteúdo
